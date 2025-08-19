@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c53fa4ff-220c-47d7-b9b3-13854cedb4c4" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TypeScript exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/01.evenSum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/01.evenSum.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/02.dayOfTheWeek.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/02.dayOfTheWeek.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/03.formatPerson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/03.formatPerson.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/04.convertArrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/04.convertArrays.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/05.summarizePerson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/05.summarizePerson.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/06.reversedDayOfTheWeek.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/06.reversedDayOfTheWeek.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/01.Introduction_to_TypeScript/01.evenSum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/01.Introduction_to_TypeScript/02.dayOfTheWeek.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/01.Introduction_to_TypeScript/03.formatPerson.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/01.Introduction_to_TypeScript/04.convertArrays.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/01.Introduction_to_TypeScript/05.summarizePerson.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/01.Introduction_to_TypeScript/06.reversedDayOfTheWeek.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/01.Introduction_to_TypeScript/07.unknownResponse.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/01.Introduction_to_TypeScript/08.isNonEmptyStringArray.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/01.Introduction_to_TypeScript/09.friday13.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03.OOP_in_TS/01.personClass.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03.OOP_in_TS/02.bankAccount.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03.OOP_in_TS/03.simpleInheritance.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03.OOP_in_TS/04.abstraction.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03.OOP_in_TS/05.messageOverride.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03.OOP_in_TS/06.accessModifiers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2wzCRvL0AJaYHIh3Zb0TMswlhKn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.01.EvenSum.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.01.evenSum.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.01.personClass.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.02.bankAccount.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.02.dayOfTheWeek.ts.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.03.formatPerson.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.03.simpleInheritance.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.04.abstraction.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.04.convertArrays.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.05.messageOverride.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.05.summarizePerson.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.06.accessModifiers.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.06.reversedDayOfTheWeek.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.07.unknownResponse.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.08.isNonEmptyStringArray.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.09.friday13.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.7.unknownResponse.ts.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.index.ts.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jorod/OneDrive - Министерство на образованието и науката/SOFTUNI/TypeScript - May 2025/TypeScript exercises&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\jorod\\OneDrive - Министерство на образованието и науката\\SOFTUNI\\TypeScript - May 2025\\TypeScript exercises\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\OneDrive - Министерство на образованието и науката\SOFTUNI\TypeScript - May 2025\TypeScript exercises\src\01.Introduction_to_TypeScript" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.06.accessModifiers.ts">
+    <configuration name="02.bankAccount.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/03.OOP_in_TS/02.bankAccount.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$/src/03.OOP_in_TS">
+      <method v="2" />
+    </configuration>
+    <configuration name="03.simpleInheritance.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/03.OOP_in_TS/03.simpleInheritance.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$/src/03.OOP_in_TS">
+      <method v="2" />
+    </configuration>
+    <configuration name="04.abstraction.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/03.OOP_in_TS/04.abstraction.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$/src/03.OOP_in_TS">
+      <method v="2" />
+    </configuration>
+    <configuration name="05.messageOverride.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/03.OOP_in_TS/05.messageOverride.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$/src/03.OOP_in_TS">
+      <method v="2" />
+    </configuration>
+    <configuration name="06.accessModifiers.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/03.OOP_in_TS/06.accessModifiers.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$/src/03.OOP_in_TS">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.06.accessModifiers.ts" />
+        <item itemvalue="Node.js.05.messageOverride.ts" />
+        <item itemvalue="Node.js.04.abstraction.ts" />
+        <item itemvalue="Node.js.03.simpleInheritance.ts" />
+        <item itemvalue="Node.js.02.bankAccount.ts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c53fa4ff-220c-47d7-b9b3-13854cedb4c4" name="Changes" comment="" />
+      <created>1747035010678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747035010678</updated>
+      <workItem from="1747035011756" duration="21000" />
+      <workItem from="1747035056541" duration="2911000" />
+      <workItem from="1747288878196" duration="266000" />
+      <workItem from="1747661587554" duration="4684000" />
+      <workItem from="1747756468024" duration="54000" />
+      <workItem from="1747756535126" duration="8000" />
+      <workItem from="1748889327378" duration="154000" />
+      <workItem from="1748929748873" duration="104000" />
+      <workItem from="1748929883835" duration="12000" />
+      <workItem from="1750420045093" duration="228000" />
+      <workItem from="1750420356175" duration="58000" />
+      <workItem from="1751004986565" duration="45000" />
+      <workItem from="1751005101271" duration="24000" />
+      <workItem from="1751875497201" duration="78000" />
+      <workItem from="1751875780745" duration="17000" />
+      <workItem from="1755246950039" duration="287000" />
+      <workItem from="1755511350164" duration="120000" />
+      <workItem from="1755511485262" duration="255000" />
+      <workItem from="1755601722024" duration="2020000" />
+      <workItem from="1755603774499" duration="221000" />
+      <workItem from="1755604337284" duration="1277000" />
+      <workItem from="1755605636743" duration="293000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+</project>
