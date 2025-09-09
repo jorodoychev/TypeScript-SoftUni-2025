@@ -1,7 +1,7 @@
 class Employee {
     name: string;
     protected position: string;
-    private _salary: number;
+    private readonly _salary: number;
 
     constructor(name: string, position: string, salary: number) {
         this.name = name;
